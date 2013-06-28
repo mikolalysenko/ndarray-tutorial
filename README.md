@@ -31,6 +31,7 @@ An overview of the modules for working with ndarrays:
 
 * [ndarray-fft](https://github.com/mikolalysenko/ndarray-fft)
 * [ndarray-convolve](https://github.com/mikolalysenko/ndarray-convolve)
+* [ndarray-linear-interpolate](https://github.com/mikolalysenko/ndarray-linear-interpolate)
 * [phase-unwrap](https://github.com/mikolalysenko/phase-unwrap)
 * [phase-align](https://github.com/mikolalysenko/phase-align)
 
@@ -44,6 +45,11 @@ An overview of the modules for working with ndarrays:
 * [save-pixels](https://github.com/mikolalysenko/save-pixels)
 * [distance-transform](https://github.com/mikolalysenko/distance-transform)
 * [ball-morphology](https://github.com/mikolalysenko/ball-morphology)
+* [ndarray-warp](https://github.com/mikolalysenko/ndarray-warp)
+
+# Volumes
+
+* [voxelize](https://github.com/mikolalysenko/voxelize)
 
 # WebGL
 
