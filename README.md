@@ -44,3 +44,7 @@ An overview of the modules for working with ndarrays:
 * [save-pixels](https://github.com/mikolalysenko/save-pixels)
 * [distance-transform](https://github.com/mikolalysenko/distance-transform)
 * [ball-morphology](https://github.com/mikolalysenko/ball-morphology)
+
+# WebGL
+
+* [gl-modules](https://github.com/mikolalysenko/gl-modules)
