@@ -11,7 +11,7 @@ An overview of the modules for working with ndarrays:
 
 * [zeros](https://github.com/mikolalysenko/zeros)
 * [ndarray-pack](https://github.com/mikolalysenko/ndarray-pack)
-* [ndarray-unpack](https://github.com/mikolalysenko/ndarray-pack)
+* [ndarray-unpack](https://github.com/mikolalysenko/ndarray-unpack)
 * [ndarray-fill](https://github.com/mikolalysenko/ndarray-fill)
 
 # Data structures
@@ -46,6 +46,22 @@ An overview of the modules for working with ndarrays:
 * [distance-transform](https://github.com/mikolalysenko/distance-transform)
 * [ball-morphology](https://github.com/mikolalysenko/ball-morphology)
 * [ndarray-warp](https://github.com/mikolalysenko/ndarray-warp)
+
+# Linear Algebra
+
+* [ndarray-blas-level1](https://github.com/scijs/ndarray-blas-level1)
+* [ndarray-blas-level2](https://github.com/scijs/ndarray-blas-level2)
+* [ndarray-blas-level1-complex](https://github.com/scijs/ndarray-blas-level1-complex)
+* [ndarray-blas-level2-complex](https://github.com/scijs/ndarray-blas-level2-complex)
+* [ndarray-blas-trsv](https://github.com/scijs/ndarray-blas-trsv)
+* [ndarray-gram-schmidt-qr](https://github.com/scijs/ndarray-gram-schmidt-qr)
+* [ndarray-gram-schmidt-qr-complex](https://github.com/scijs/ndarray-gram-schmidt-qr-complex)
+* [ndarray-cholesky-factorization](https://github.com/scijs/ndarray-cholesky-factorization)
+* [ndarray-ldl-factorization](https://github.com/scijs/ndarray-ldl-factorization)
+* [ndarray-householder-qr](https://github.com/scijs/ndarray-householder-qr)
+* [ndarray-vandermonde](https://github.com/scijs/ndarray-vandermonde)
+* [ndarray-function-basis](https://github.com/scijs/ndarray-function-basis)
+* [ndarray-tests](https://github.com/scijs/ndarray-tests)
 
 # Volumes
 
