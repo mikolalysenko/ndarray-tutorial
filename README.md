@@ -11,7 +11,7 @@ An overview of the modules for working with ndarrays:
 
 * [zeros](https://github.com/mikolalysenko/zeros)
 * [ndarray-pack](https://github.com/mikolalysenko/ndarray-pack)
-* [ndarray-unpack](https://github.com/mikolalysenko/ndarray-pack)
+* [ndarray-unpack](https://github.com/mikolalysenko/ndarray-unpack)
 * [ndarray-fill](https://github.com/mikolalysenko/ndarray-fill)
 
 # Data structures
